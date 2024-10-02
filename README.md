@@ -1,2 +1,5 @@
 # E-commerce-KPIs-Analysis
 KPIs Analysis for an E-commerce Skincare &amp; Bodycare Company
+In this project, I conducted a comprehensive analysis of key performance indicators (KPIs) for an e-commerce platform, focusing on metrics such as Profit Margin, Year-over-Year (YoY) Sales Growth, and YoY Profit Margin Growth. Utilizing SQL for data extraction and Power BI for visualization, I created an interactive dashboard that allows users to filter data by market and year, enabling them to identify top-selling categories and their respective contributions to market revenue and profit.
+
+To elucidate discount strategies, I incorporated the Profit Discount Ratio and Volume of Sales, providing insights into how pricing strategies impact profitability. The dashboard highlights the Best-Selling Market Category, showcasing the category with the highest sales volume, which significantly contributes to overall revenue and profit. Additionally, I explored the variations in best-selling categories across different markets, offering a detailed view of profit contributions tracked per country.
